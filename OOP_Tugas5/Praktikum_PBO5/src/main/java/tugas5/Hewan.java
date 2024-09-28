@@ -13,8 +13,8 @@ public class Hewan {
     String jenis;
     
     Hewan(String nama, String jenis){
-        this.nama=nama;
-        this.jenis=jenis;
+        this.nama = nama;
+        this.jenis = jenis;
     }
     
     public void tampilkanInfo(){

@@ -6,7 +6,7 @@ package tugas5_kendaraan;
 
 /**
  *
- * @author MSI THIN
+ * @author Acer
  */
 public class Mobil extends KendaraanDarat {
     int jumlahPintu;
