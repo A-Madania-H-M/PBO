@@ -15,7 +15,5 @@ public class Main {
         kucing.makan("ikan"); // Memanggil metode makan() dari kelas Hewan
         kucing.makan("ikan", 2); // Memanggil metode makan() yang overloaded
     }
-    
-    
 }
 

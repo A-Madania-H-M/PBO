@@ -12,8 +12,6 @@ public class Main {
     public static void main(String[] args) {
         Hewan hewan = new Kucing("Neko");
         hewan.bersuara(); // Output: Meow
-        System.out.println();
-        
         Kucing kucing = new Kucing("MiawMiaw");
         kucing.tampilkanInfo();
         kucing.makan("ikan"); // Memanggil metode makan() dari kelas Hewan
